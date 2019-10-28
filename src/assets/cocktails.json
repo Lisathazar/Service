@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gin tonic",
+    "price": "8 euros",
+    "img": "https://www.thespruceeats.com/thmb/VyFdz48oLo2zUsgpKBSl6bPjv4E=/1039x1039/smart/filters:no_upscale()/woo-woo-cocktail-recipe-759852-Hero-5b8c4ee546e0fb002508fa5b.jpg"
+
+  },
+  {
+    "name": "vodka",
+    "price": "7 euros",
+    "img": "https://cdn.liquor.com/wp-content/uploads/2018/10/19111600/drunk-uncle-720x720-recipe.jpg"
+  },
+  {
+    "name": "whisky",
+    "price": "10 euros",
+    "img": "https://kitchenswagger.com/wp-content/uploads/2015/11/strawberry-cucumber-cocktail2.jpg"
+  }
+]
